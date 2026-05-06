@@ -1,4 +1,4 @@
-# Yakisoba in San Antonio
+# Japanese Yakisoba in San Antonio
 
 Experience authentic Japanese Yakisoba noodles at Sake Cafe Sushi Bar & Grill in San Antonio. From fresh vegetable yakisoba to savory beef and our loaded seafood combo, our wok-fired noodles are a comforting favorite. Visit us in Stone Oak for a rich, satisfying noodle dish that pairs perfectly with any of our signature sushi rolls.
 
