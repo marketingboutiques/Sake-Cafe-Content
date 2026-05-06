@@ -1,4 +1,4 @@
-# Nigiri Sushi in San Antonio
+# Japanese Nigiri Sushi in San Antonio
 
 Experience the pure, traditional taste of Japanese Nigiri Sushi at Sake Cafe Sushi Bar & Grill in San Antonio. Featuring thick, premium cuts of raw or cooked seafood served over a small bed of perfectly seasoned sushi rice, our nigiri highlights the quality of our ingredients. Join us in Stone Oak for an authentic sushi bar experience.
 
