@@ -1,3 +1,8 @@
+---
+Meta Title: Japanese Sides in San Antonio | Sake Cafe
+Meta Description: Enjoy the best Japanese Sides at Sake Cafe in Stone Oak. Fresh, authentic, and delicious Japanese cuisine!
+---
+
 # Japanese Sides in San Antonio
 
 Complete your Japanese dining experience with our authentic side dishes at Sake Cafe Sushi Bar & Grill in San Antonio. From traditional steamed rice and edamame to fresh grilled vegetables, our sides are the perfect accompaniment to any sushi roll or kitchen entrée. Join us in Stone Oak to round out your meal with fresh, comforting flavors.
@@ -93,3 +98,48 @@ Absolutely. All of our sides, from hot soups to fresh salads, are packaged secur
 Complete your meal with fresh sides from Sake Cafe Sushi Bar & Grill in San Antonio. 
 
 [Order Online for Pickup](https://order.toasttab.com/online/sake-cafe-sushi-bar-grill-new-texas-vip-llc-19179-blanco-road) | [Visit Us in Stone Oak](https://sakesushisa.com/contact/)
+
+---
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between Steamed Rice and Sushi Rice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Steamed rice is plain, hot white rice. Sushi rice is a specific short-grain rice that is cooked and then folded with a seasoned vinegar mixture, giving it a slightly sweet and tangy flavor."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Miso Soup vegetarian?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional Japanese miso soup uses a dashi (fish stock) base. Please ask your server if you have strict dietary requirements!"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I substitute Brown Rice for Steamed Rice with my entrÃ©e?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! For a small upcharge, you can substitute healthy brown rice or seasoned sushi rice with any of our hot kitchen entrÃ©es."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are these sides available for takeout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. All of our sides, from hot soups to fresh salads, are packaged securely for easy takeout in San Antonio."
+      }
+    }
+  ]
+}
+</script>
+```
