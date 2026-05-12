@@ -1,3 +1,8 @@
+---
+Meta Title: Fried Sushi Rolls in San Antonio | Sake Cafe
+Meta Description: Enjoy the best Fried Sushi Rolls at Sake Cafe in Stone Oak. Fresh, authentic, and delicious Japanese cuisine!
+---
+
 # Fried Sushi Rolls in San Antonio
 
 Craving something hot, bold, and crispy? Experience our signature Fried Sushi Rolls at Sake Cafe Sushi Bar & Grill in San Antonio. Coated in light tempura batter or crispy panko and fried to golden perfection, these rolls offer an irresistible crunch with every bite. Join us in Stone Oak for a decadent twist on your favorite sushi rolls.
@@ -69,3 +74,48 @@ Since fried rolls are rich and savory, they pair wonderfully with a light side l
 Enjoy the best, crispiest fried sushi rolls from Sake Cafe Sushi Bar & Grill in San Antonio. 
 
 [Order Online for Pickup](https://order.toasttab.com/online/sake-cafe-sushi-bar-grill-new-texas-vip-llc-19179-blanco-road) | [Visit Us in Stone Oak](https://sakesushisa.com/contact/)
+
+---
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are the ingredients inside the fried rolls raw or cooked?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because the entire roll is flash-fried in tempura batter or panko, the ingredients inside are generally cooked or significantly warmed through the process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get a regular roll deep-fried?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! For a small upcharge, our chefs can tempura-fry almost any classic roll on the menu, like a California or Philadelphia Roll. Just ask your server!"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are fried rolls good for takeout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We package our fried rolls carefully to ensure they retain as much of their crunch as possible for the ride home in San Antonio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What pairs well with fried rolls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Since fried rolls are rich and savory, they pair wonderfully with a light side like our Cucumber Salad, Edamame, or a cold Japanese beer."
+      }
+    }
+  ]
+}
+</script>
+```
