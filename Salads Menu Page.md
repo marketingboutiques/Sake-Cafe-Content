@@ -1,3 +1,8 @@
+---
+Meta Title: Fresh Japanese Salads in San Antonio | Sake Cafe
+Meta Description: Enjoy the best Fresh Japanese Salads at Sake Cafe in Stone Oak. Fresh, authentic, and delicious Japanese cuisine!
+---
+
 # Fresh Japanese Salads in San Antonio
 
 Start your meal with a refreshing Japanese salad at Sake Cafe Sushi Bar & Grill in San Antonio. From classic seaweed and cucumber salads to our premium Spicy Seafood and Tuna salads, our menu offers light, vibrant options to awaken your palate. Join us in Stone Oak for a crisp, healthy start to your sushi dining experience.
@@ -93,3 +98,48 @@ Absolutely. All of our salads are packaged carefully to stay crisp and fresh for
 Enjoy the freshest Japanese salads from Sake Cafe Sushi Bar & Grill in San Antonio. 
 
 [Order Online for Pickup](https://order.toasttab.com/online/sake-cafe-sushi-bar-grill-new-texas-vip-llc-19179-blanco-road) | [Visit Us in Stone Oak](https://sakesushisa.com/contact/)
+
+---
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of dressing comes with the Garden Salad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our Side Salad and House Garden Salad are served with our signature, house-made Japanese ginger dressing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are your salads gluten-free?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many of our salads, like the Side Salad and Cucumber Salad, are gluten-free or can be made gluten-free. Please let your server know about any dietary restrictions!"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Spicy Tuna Salad served with raw fish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the Spicy Tuna Salad features fresh, sushi-grade raw tuna tossed in our house spicy sauce over greens."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I order salads for takeout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. All of our salads are packaged carefully to stay crisp and fresh for takeout and delivery in San Antonio."
+      }
+    }
+  ]
+}
+</script>
+```
