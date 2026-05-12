@@ -1,3 +1,8 @@
+---
+Meta Title: Best Japanese Restaurant in San Antonio | Sake Sushi
+Meta Description: Enjoy fresh sushi, ramen, and hibachi at Sake Sushi, a trusted Japanese restaurant in San Antonio. Explore the menu!
+---
+
 ## Hero Section
 
 ### H1
