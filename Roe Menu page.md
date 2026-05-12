@@ -1,3 +1,8 @@
+---
+Meta Title: Japanese Sushi Roe in San Antonio | Sake Cafe
+Meta Description: Enjoy the best Sushi Roe at Sake Cafe in Stone Oak. Fresh, authentic, and delicious Japanese cuisine!
+---
+
 # Japanese Sushi Roe in San Antonio
 
 Experience the bold, ocean-rich flavors of Japanese sushi roe at Sake Cafe Sushi Bar & Grill in San Antonio. Whether you prefer the sweet pop of Masago, the vibrant crunch of Tobiko, or the rich burst of Ikura, our roe is sourced for maximum freshness. Join us in Stone Oak for a delicate and authentic delicacy served as sushi or sashimi.
@@ -79,3 +84,48 @@ Roe itself is naturally gluten-free, but marinades sometimes contain soy sauce. 
 Enjoy the freshest sushi roe from Sake Cafe Sushi Bar & Grill in San Antonio. 
 
 [Order Online for Pickup](https://order.toasttab.com/online/sake-cafe-sushi-bar-grill-new-texas-vip-llc-19179-blanco-road) | [Visit Us in Stone Oak](https://sakesushisa.com/contact/)
+
+---
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between Masago, Tobiko, and Ikura?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Masago (smelt roe) is the smallest and slightly sweet. Tobiko (flying fish roe) is larger and crunchier. Ikura (salmon roe) is the largest, with a soft texture that bursts with a rich, savory flavor."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the roe served?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can order our roe as \"Sushi\" (served over a small bed of seasoned rice, wrapped in a thin strip of nori) or as \"Sashimi\" (served on its own)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get roe added to my sushi rolls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! Many of our signature rolls already include roe, but you can always ask your server to add Masago or Tobiko to the top of any classic roll for an extra crunch."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are these items gluten-free?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Roe itself is naturally gluten-free, but marinades sometimes contain soy sauce. Please let us know if you have a gluten allergy so we can prepare your order safely!"
+      }
+    }
+  ]
+}
+</script>
+```
