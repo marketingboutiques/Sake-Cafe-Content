@@ -1,3 +1,8 @@
+---
+Meta Title: Japanese Donburi Bowls in San Antonio | Sake Cafe
+Meta Description: Enjoy the best Donburi Bowls at Sake Cafe in Stone Oak. Fresh, authentic, and delicious Japanese cuisine!
+---
+
 # Japanese Donburi Bowls in San Antonio
 
 Experience the classic comfort of Japanese Donburi bowls at Sake Cafe Sushi Bar & Grill in San Antonio. Served over a steaming bed of premium rice, our donburi dishes feature rich, savory toppings like grilled unagi (eel) and crispy tempura. Join us in Stone Oak for a hearty, traditional Japanese rice bowl that is perfect for a quick lunch or a satisfying dinner.
@@ -63,3 +68,48 @@ Absolutely. Donburi bowls travel very well and stay warm, making them one of the
 Enjoy authentic, comforting Donburi rice bowls from Sake Cafe Sushi Bar & Grill in San Antonio. 
 
 [Order Online for Pickup](https://order.toasttab.com/online/sake-cafe-sushi-bar-grill-new-texas-vip-llc-19179-blanco-road) | [Visit Us in Stone Oak](https://sakesushisa.com/contact/)
+
+---
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exactly is Donburi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Donburi literally translates to \"bowl\" in Japanese. It refers to a traditional dish where savory ingredientsâ€”like grilled meats, seafood, or tempuraâ€”are served over a large bed of steamed rice."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the eel in the Unagi Don raw or cooked?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The eel (unagi) is fully cooked! It is grilled to perfection and brushed with a sweet soy-based glaze before being served over rice."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get the Ten Don with only shrimp or only vegetables?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we are happy to customize your Ten Don (Tempura Bowl) to feature just shrimp tempura or just vegetable tempura. Just ask your server!"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are Donburi bowls good for takeout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Donburi bowls travel very well and stay warm, making them one of the best options for Japanese takeout in San Antonio."
+      }
+    }
+  ]
+}
+</script>
+```
