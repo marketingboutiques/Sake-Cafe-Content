@@ -1,3 +1,8 @@
+---
+Meta Title: Sushi Lunch Specials in San Antonio | Sake Sushi
+Meta Description: Enjoy fresh rolls, bento boxes, and sushi lunch specials in San Antonio at Sake Cafe Sushi Bar & grill. View today’s lunch menu.
+---
+
 ## Hero Section
 
 ### H1
@@ -86,3 +91,40 @@ Yes, all lunch specials are available for both dine-in and takeout.
 ### Enjoy Fresh Bento Lunch Specials in San Antonio Today
 
 Visit Sake Cafe Sushi Bar & Grill for delicious bento lunch specials served fresh every day from 11 AM to 3 PM.
+
+---
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What time are bento lunch specials available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our bento lunch specials are available every day from 11 AM to 3 PM."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do your lunch specials include sushi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Select lunch specials include sushi along with other Japanese favorites."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I order lunch specials for takeout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, all lunch specials are available for both dine-in and takeout."
+      }
+    }
+  ]
+}
+</script>
+```
