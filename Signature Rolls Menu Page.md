@@ -1,3 +1,8 @@
+---
+Meta Title: Signature Sushi Rolls in San Antonio | Sake Cafe
+Meta Description: Enjoy the best Signature Sushi Rolls at Sake Cafe in Stone Oak. Fresh, authentic, and delicious Japanese cuisine!
+---
+
 # Signature Sushi Rolls in San Antonio
 
 Experience bold, chef-crafted signature sushi rolls at Sake Cafe Sushi Bar & Grill in San Antonio. From the spicy kick of our San Antonio Roll to the luxurious layers of the Rainbow and Hawaiian Kona rolls, our signature menu pushes the boundaries of traditional sushi. Join us in Stone Oak to discover innovative, picture-perfect rolls packed with premium seafood and house-made sauces.
@@ -179,3 +184,48 @@ Yes, we are happy to accommodate dietary restrictions or preferences, such as sw
 Experience the best signature sushi rolls from Sake Cafe Sushi Bar & Grill in San Antonio. 
 
 [Order Online for Pickup](https://order.toasttab.com/online/sake-cafe-sushi-bar-grill-new-texas-vip-llc-19179-blanco-road) | [Visit Us in Stone Oak](https://sakesushisa.com/contact/)
+
+---
+
+```html
+script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which signature rolls are the most popular?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Shaggy Dog Roll, San Antonio Roll, and Rainbow Roll are some of the most loved signature items on our menu."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you have signature rolls without raw fish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! Rolls like the Shaggy Dog and Caterpillar feature cooked ingredients like shrimp tempura and grilled eel."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are \"Rice-Free\" rolls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rolls like the Alkin Roll and Green Shadow Roll are wrapped in cucumber or soy paper without rice, perfect for a low-carb diet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I customize a signature roll?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we are happy to accommodate dietary restrictions or preferences, such as swapping out a sauce or changing to soy paper."
+      }
+    }
+  ]
+}
+</script>
+```
