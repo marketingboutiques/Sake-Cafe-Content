@@ -1,3 +1,9 @@
+---
+Meta Title: Corporate & Sushi Catering in San Antonio | Sake Cafe
+Meta Description: Fresh sushi platters and Japanese favorites for events and offices. Book sushi catering in San Antonio with Sake Cafe Sushi Bar & Grill.
+---
+
+
 ## Hero Section
 
 ### H1
@@ -122,3 +128,48 @@ Most of our sushi, appetizers, kitchen entrées, platters, and party trays can b
 ### Order Catering in San Antonio Today
 
 From sushi platters and appetizers to hibachi and Japanese entrées, Sake Cafe Sushi Bar & Grill offers fresh catering for office lunches, parties, and special events across San Antonio.
+
+---
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far in advance should I place a catering order?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We recommend placing catering orders as early as possible to ensure availability for your preferred date."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer corporate catering in San Antonio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we provide catering for office lunches, meetings, and business events throughout San Antonio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I customize my catering order?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, catering packages and platters can be customized based on your event needs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What menu items are available for catering?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most of our sushi, appetizers, kitchen entrées, platters, and party trays can be ordered for catering."
+      }
+    }
+  ]
+}
+</script>
+```
