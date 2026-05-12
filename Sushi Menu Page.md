@@ -1,3 +1,8 @@
+---
+Meta Title: Nigiri Sushi in San Antonio | Sake Cafe
+Meta Description: Enjoy the best Nigiri Sushi at Sake Cafe in Stone Oak. Fresh, authentic, and delicious Japanese cuisine!
+---
+
 # Japanese Nigiri Sushi in San Antonio
 
 Experience the pure, traditional taste of Japanese Nigiri Sushi at Sake Cafe Sushi Bar & Grill in San Antonio. Featuring thick, premium cuts of raw or cooked seafood served over a small bed of perfectly seasoned sushi rice, our nigiri highlights the quality of our ingredients. Join us in Stone Oak for an authentic sushi bar experience.
@@ -109,3 +114,48 @@ While our menu lists items a la carte (2 pieces per order), our chefs can prepar
 Enjoy the freshest, highest-quality nigiri sushi from Sake Cafe Sushi Bar & Grill in San Antonio. 
 
 [Order Online for Pickup](https://order.toasttab.com/online/sake-cafe-sushi-bar-grill-new-texas-vip-llc-19179-blanco-road) | [Visit Us in Stone Oak](https://sakesushisa.com/contact/)
+
+---
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between Sushi (Nigiri) and Sashimi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nigiri (or simply \"Sushi\") is a slice of fresh fish served over a small, hand-pressed mound of vinegared rice. Sashimi is the fish served completely on its own, without any rice."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I eat Nigiri?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditionally, nigiri is meant to be eaten in one bite. You can use your fingers or chopsticks. If dipping in soy sauce, try to dip the fish side (not the rice) so the rice doesn't fall apart!"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is all of your Nigiri raw?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No! While many items like Tuna and Yellowtail are raw, we offer cooked options like Eel (Unagi), Shrimp (Ebi), and Crab Stick."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get a Nigiri combination platter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While our menu lists items a la carte (2 pieces per order), our chefs can prepare large, beautiful mixed sushi platters upon request!"
+      }
+    }
+  ]
+}
+</script>
+```
