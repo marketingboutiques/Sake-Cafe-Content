@@ -14,88 +14,96 @@ Experience the fun and flavor of traditional Japanese hand rolls (Temaki) at Sak
 ### Classic Hand Rolls
 
 ### California Hand Roll
-$4.99
-A classic combination of sweet crab mix, fresh avocado, and crisp cucumber wrapped in a nori cone.
-
-### Philadelphia Hand Roll
-$6.99
-Rich smoked salmon, smooth cream cheese, and cucumber perfectly rolled by hand.
-
-### Unagi Hand Roll
-$7.99
-Savory, grilled freshwater eel drizzled with sweet eel sauce and paired with crisp cucumber.
+$5.95  
+Traditional one-piece cone shaped hand roll with avocado, cucumber, crab and sesame seeds.
 
 ### Vegetable Hand Roll
-$4.99
-A light, refreshing, and healthy hand roll packed with an assortment of crisp, fresh vegetables.
+$4.95  
+Traditional one-piece cone shaped hand roll with asparagus, carrot and cucumbers.
+
+### Philadelphia Hand Roll
+$7.95  
+Traditional one piece cone shaped hand roll with smoked salmon, cream cheese and avocado.
+
+### Unagi Hand Roll
+$7.95  
+Eel, cream cheese and cucumber.
+
+### Shrimp Tempura Hand Roll
+$7.95  
+Shrimp tempura, avocado and cucumber with eel sauce.
+
+---
 
 ### Spicy Hand Rolls
 
 ### Spicy Tuna Hand Roll
-$5.99
-Fresh, premium raw tuna mixed with our signature spicy mayo, served with cucumber in a crisp seaweed cone.
-
-### Spicy Salmon Hand Roll
-$6.99
-Fresh salmon mixed with a kick of house spicy sauce, perfectly balanced and hand-rolled.
-
-### Spicy Yellowtail Hand Roll
-$6.99
-Rich, buttery yellowtail chopped with spicy mayo and scallions for a bold, flavorful bite.
+$6.95  
+Traditional one-piece cone-shaped hand roll with chopped tuna and cucumber in a spicy sauce with sesame seeds.
 
 ### Spicy Crab Hand Roll
-$5.99
-Sweet crab meat blended with our house spicy mayo and wrapped with rice in a classic nori cone.
+$6.95  
+Shredded crab in spicy sauce.
+
+### Spicy Yellowtail Hand Roll
+$7.95  
+Chopped yellowtail and cucumber in spicy sauce.
 
 ### Spicy Scallop Hand Roll
-$7.99
-Sweet, tender scallops tossed with our house spicy sauce for a delicate yet fiery flavor.
+$7.95  
+Fresh chopped seared scallop mix with chives and spicy sauce.
+
+### Spicy Salmon Hand Roll
+$7.95  
+Chopped salmon and avocado in spicy sauce.
 
 ### Spicy Crawfish Hand Roll
-$7.99
-A Southern twist on a classic, featuring spicy seasoned crawfish tails rolled with rice.
+$7.95  
+Fresh crawfish, jalapeño and green onion in spicy sauce.
 
-### Spicy Creamy Hand Roll
-$4.99
-A rich, flavor-packed hand roll featuring a creamy, spicy blend of ingredients.
+---
 
-### Specialty & Tempura Hand Rolls
-
-### Shrimp Tempura Hand Roll
-$6.99
-Crispy, golden-fried shrimp tempura rolled with avocado and cucumber, drizzled with eel sauce.
-
-### Spider Hand Roll
-$7.99
-Crispy soft-shell crab, avocado, and cucumber wrapped together for a satisfying, savory crunch.
+### Tempura Style Hand Rolls
 
 ### Crunchy Hand Roll
-$7.99
-A delightful hand roll filled with fresh ingredients and crispy tempura flakes for an irresistible texture.
-
-### Alamo Hand Roll
-$7.99
-A local favorite packed with bold flavors and fresh ingredients, hand-rolled to perfection.
+$6.95  
+Traditional one-piece cone shaped hand roll with spicy crab, cucumber and masago rolled in tempura flakes.
 
 ### Rocky Hand Roll
-$6.99
-A premium, flavor-packed hand roll featuring a chef-selected blend of fresh ingredients.
+$6.95  
+Crab meat tempura, cream cheese and avocado in tempura style.
 
-### Crazy Hand Roll
-$6.99
-A flavorful medley of spicy tuna, shrimp tempura, and fresh vegetables rolled into a crisp cone.
+### Alamo Hand Roll
+$6.95  
+Spicy yellowtail, cream cheese and jalapeño in tempura style.
 
 ### Delicato Hand Roll
-$7.99
-An elegant, delicately balanced hand roll highlighting the pure, fresh flavors of premium seafood.
+$7.95  
+Shrimp tempura, cream cheese and avocado in tempura style topped with spicy crab.
+
+### Crazy Hand Roll
+$7.95  
+Spicy tuna, shrimp tempura and avocado wrapped in soy bean paper.
 
 ### Sumo Hand Roll
-$7.99
-A hearty, satisfying hand roll packed with an assortment of fresh fish, crab, and avocado.
+$7.95  
+Spicy tuna, avocado, salmon and white tuna wrapped in soy bean paper.
+
+---
+
+### Specialty Rolls
+
+### Tiger Eye Roll
+$11.95  
+Smoked salmon, cream cheese and jalapeño.
+
+### Unagi Roll
+$10.95  
+Eel, cream cheese and cucumber.
 
 ### Tiger Eye Hand Roll
-$7.99
-Smoked salmon, jalapeño, and cream cheese wrapped for a perfect balance of sweet and spicy heat.
+$7.95  
+Salmon maki consists of sliced salmon and rice, tightly rolled in seaweed paper.
 
 ---
 
