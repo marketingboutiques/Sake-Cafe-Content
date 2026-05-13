@@ -13,16 +13,17 @@ End your meal on a sweet note with our delightful Japanese desserts at Sake Cafe
 ### Desserts
 
 ### Mochi Ice Cream
-$4.95  
-Traditional Japanese mochi wrapped around creamy ice cream.
+$7.95  
+Ice cream coated with sweet rice (Vanilla, Green Tea, Strawberry).  
+3 per order. Flavor subject to availability.
 
-### Tempura Cheesecake
-$6.95  
-Rich cheesecake lightly fried until golden and crispy.
+### Banana Tempura
+$8.95  
+Tempura fried banana drizzled with chocolate and strawberry sauce.
 
-### Fried Banana with Ice Cream
-$6.95  
-Sweet fried banana served warm with creamy ice cream.
+### New York Cheesecake
+$5.95  
+Rich and creamy New York style cheesecake on top of a crispy graham cracker crust.
 
 ---
 
